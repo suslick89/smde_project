@@ -4,5 +4,6 @@ Public MGP_IN_Name_DATE
 Public MGP_IN_Name_Customer
 Public MGP_IN_Name_Product
 Public MGP_IN_Name_Company
-Public MGP_IN_Name_UR_Address
-         
+Public MGP_IN_Name_adress
+Public MGP_IN_Name_Dog
+Public MGP_IN_Date
